@@ -11,3 +11,5 @@ str(data)
 summary(data)
 # Clean the data
 data <- na.omit(data)
+
+#this is a good start, but can we add more ducks?
